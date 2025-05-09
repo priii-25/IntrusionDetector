@@ -131,20 +131,9 @@ Please ensure your code follows the existing style and includes appropriate docu
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
 ## Disclaimer
 
 This application is for **educational and illustrative purposes only**. It is not a replacement for professional network security solutions. Always validate and tune models for real-world applications.
 
 ---
-
-## Contact
-
-For questions or feedback, please open an issue on the GitHub repository or contact the maintainer at [your-email@example.com].
-
 Happy analyzing! 🔒
