@@ -41,8 +41,8 @@ pip install -r requirements.txt
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo/network-intrusion-detection.git
-   cd network-intrusion-detection
+   git clone https://github.com/priii-25/IntrusionDetector/
+   cd IntrusionDetector
    ```
 
 2. **Install Dependencies**:
@@ -96,7 +96,7 @@ The application expects data in the **KDD Cup 1999** format:
 - **Categorical Features**: `protocol_type`, `service`, `flag` should be text-based (e.g., `tcp`, `http`, `SF`)
 - **Note**: Ensure attack labels do not have trailing dots (e.g., `normal.` should be `normal`).
 
-For reference, see the [KDD Cup 1999 Dataset](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html).
+For reference, see the KDD Cup 1999 Dataset.
 
 ---
 
